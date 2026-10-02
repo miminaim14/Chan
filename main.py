@@ -1,3 +1,4 @@
+#Author : Syamimi Auni
 # CSC649: My first Python experiment
 
 sentence = input("Enter a sentence: ")
